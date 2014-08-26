@@ -1,4 +1,4 @@
-Matrix Factorization Methods for Python (pymf)
+Matrix Factorization Methods for Python!
 ==============================================
 
 What is PyMF?
